@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/AntonDovidenkov">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsAPP Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Yogel9&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=Yogel9&style=flat-square&color=blue" alt=""/>
 ---
 
 ### :technologist: About Me :
@@ -40,11 +40,8 @@ I’m backend developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
 
-<!--
-**Yogel9/Yogel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yogel9&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

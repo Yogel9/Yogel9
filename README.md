@@ -4,7 +4,7 @@
   <a href="https://t.me/AntonDovidenkov">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="ant.dovidenkov9458@gmail.com">
+  <a href="mailto:ant.dovidenkov9458@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://wa.me/79880776912">
@@ -18,7 +18,7 @@
 I’m backend developer from Russia.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)]([your-linkedin-url](https://t.me/AntonDovidenkov))
+- 📫 How to reach me: <a href="https://t.me/AntonDovidenkov"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/></a>
 
 
 ---

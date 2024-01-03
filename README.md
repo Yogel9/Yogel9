@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsAPP Badge"/>
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=Yogel9&style=flat-square&color=blue" alt=""/>
+<div  align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yogel9&style=flat-square&color=blue" alt=""/>
+</div>
 ---
 
 ### :technologist: About Me :
@@ -44,4 +46,5 @@ I’m backend developer from Russia.
 
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yogel9&theme=dark&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogel9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

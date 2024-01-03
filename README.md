@@ -14,6 +14,7 @@
 <div  align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogel9&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
 ### :technologist: About Me :
@@ -42,6 +43,7 @@ I’m backend developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :

@@ -1,4 +1,4 @@
-### Привет! 👋
+![image](https://github.com/user-attachments/assets/bf09651a-01da-4afe-b419-2aa0d0d3dce5)### Привет! 👋
 
 <div id="badges" align="center">
   <a href="https://t.me/AntonDovidenkov">
@@ -52,5 +52,5 @@
   </a>
   <br>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogel9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogel9&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>

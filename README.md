@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf09651a-01da-4afe-b419-2aa0d0d3dce5)### Привет! 👋
+### Привет! 👋
 
 <div id="badges" align="center">
   <a href="https://t.me/AntonDovidenkov">

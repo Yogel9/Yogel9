@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! 👋
 
 <div id="badges" align="center">
   <a href="https://t.me/AntonDovidenkov">
@@ -11,23 +11,22 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsAPP Badge"/>
   </a>
 </div>
-<div  align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogel9&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
-### :technologist: About Me :
-I’m backend developer from Russia.
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- 📫 How to reach me: <a href="https://t.me/AntonDovidenkov"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/></a>
-
+### :technologist: Обо мне :
+Я backend-разработчик из России.
+- 🔭 В настоящее время работаю программистом и занимаюсь разработкой backend-части веб-приложений.
+- :zap: В свободное время решаю задачи на LeetCode и читаю технические статьи.
+- 📫 Как со мной связаться: <a href="https://t.me/AntonDovidenkov"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/></a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+### :hammer_and_wrench: Языки и инструменты :
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
@@ -46,7 +45,12 @@ I’m backend developer from Russia.
 
 ---
 
-### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yogel9&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" /></a>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogel9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: Моя статистика :
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yogel9&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" />
+  </a>
+  <br>
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogel9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
